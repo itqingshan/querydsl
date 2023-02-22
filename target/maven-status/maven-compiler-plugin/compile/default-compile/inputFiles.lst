@@ -1,0 +1,14 @@
+/Users/qingshan/workplace/querydsl/src/main/java/com/dsl/DslApplication.java
+/Users/qingshan/workplace/querydsl/src/main/java/com/dsl/controller/StudentController.java
+/Users/qingshan/workplace/querydsl/target/generated-sources/java/com/dsl/domain/QTeacher.java
+/Users/qingshan/workplace/querydsl/src/main/java/com/dsl/repository/StudentRepository.java
+/Users/qingshan/workplace/querydsl/src/main/java/com/dsl/domain/Teacher.java
+/Users/qingshan/workplace/querydsl/target/generated-sources/java/com/dsl/domain/QBaseModel.java
+/Users/qingshan/workplace/querydsl/target/generated-sources/java/com/dsl/domain/QStudent.java
+/Users/qingshan/workplace/querydsl/src/main/java/com/dsl/domain/Student.java
+/Users/qingshan/workplace/querydsl/src/main/java/com/dsl/domain/School.java
+/Users/qingshan/workplace/querydsl/src/main/java/com/dsl/service/StuService.java
+/Users/qingshan/workplace/querydsl/target/generated-sources/java/com/dsl/domain/QSchool.java
+/Users/qingshan/workplace/querydsl/src/main/java/com/dsl/domain/BaseModel.java
+/Users/qingshan/workplace/querydsl/src/main/java/com/dsl/mapper/StudentMapper.java
+/Users/qingshan/workplace/querydsl/src/main/java/com/dsl/service/dto/StudentDTO.java
