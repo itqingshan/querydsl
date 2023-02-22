@@ -36,6 +36,7 @@ pom文件加入maven 插件
 3、使用示例请看com.dsl.service.TestService.java
 
 注： 通过Projections.bean(列1，列2....)的方法可直接返回dto
+转载博客：https://juejin.cn/post/6844903955240058887
 
 
 
